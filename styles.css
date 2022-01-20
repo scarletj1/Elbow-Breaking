@@ -1,0 +1,90 @@
+body {
+  background-color: #e3fff4;
+  color: black;
+  font-family: monospace;
+  margin: 0;
+}
+
+h1 {
+  margin: 0;
+  font-size: 50px;
+  padding-top: 50px;
+}
+
+a {
+  font-size: 20px;
+}
+
+p {
+  font-size: 20px;
+}
+
+li {
+  font-size: 20px;
+}
+td {
+  width: 30%;
+  border-style: dashed;
+  border-width: thin;
+  text-align: center;
+  border-color: gray;
+}
+
+button {
+  height: 45px;
+  width: 200px;
+  border-radius: 10px;
+  border-style: none;
+  background-color: #2F5D62;
+  color: white;
+  font-family: fantasy;
+}
+
+.body {
+  margin: 0 10%;
+}
+
+.thislink {
+  background-color: #caedde;
+  display: inline-block;
+}
+
+.otherlink {
+  display: inline-block;
+}
+
+.navBar {
+  background-color: #daf2e8;
+  display: inline-block;
+  width: 100%;
+  margin: 0;
+  text-align: left;
+  position: fixed;
+}
+
+.navLink {
+  display: inline-block;
+  margin: 15px 35px;
+  color: black;
+}
+
+.blegh {
+  color: red;
+}
+
+.gross {
+  background-color: red;
+  color: white;
+  text-align: center;
+}
+
+.haterow {
+  display: inline-block;
+  width: 500px;
+  margin: 50px;
+}
+
+.stories {
+  border-style: dashed;
+  border-width: thin;
+}
